@@ -47,7 +47,7 @@ thousand_qi_needles = {
     stack = 25
     ai_quality = { value = @qi_maa_ai_score_low }
 
-    icon = unrestrained_realm_taoists
+    icon = skirmishers
 }
 
 # 2. Nine Heavens Sword Intent (Qi Refining - sword qi strike)
@@ -93,7 +93,7 @@ nine_heavens_sword_intent = {
     stack = 20
     ai_quality = { value = @qi_maa_ai_score_mid }
 
-    icon = golden_core_taoists
+    icon = heavy_infantry
 }
 
 # 3. Golden Core Flame Lotus (Qi Building - explosive fire lotus attack)
@@ -139,7 +139,7 @@ golden_core_flame_lotus = {
     stack = 12
     ai_quality = { value = @qi_maa_ai_score_high }
 
-    icon = golden_core_taoists
+    icon = war_elephants
 }
 
 # 4. Nascent Soul Phantom (Core Formation - ghostly soul attack)
@@ -185,7 +185,7 @@ nascent_soul_phantom = {
     stack = 10
     ai_quality = { value = @qi_maa_ai_score_high }
 
-    icon = golden_core_taoists
+    icon = war_elephants
 }
 
 # 5. Heaven Severing Blade (Nascent Soul - powerful sword domain strike)
@@ -231,7 +231,7 @@ heaven_severing_blade = {
     stack = 8
     ai_quality = { value = @qi_maa_ai_score_high }
 
-    icon = peak_realm_taoists
+    icon = war_elephants
 }
 
 # 6. Myriad Dao Suppression Domain (Heavenly Being - domain suppression field)
@@ -277,7 +277,7 @@ myriad_dao_suppression_domain = {
     stack = 6
     ai_quality = { value = @qi_maa_ai_score_high }
 
-    icon = peak_realm_taoists
+    icon = war_elephants
 }
 
 # 7. Heavenly Tribulation Descent (True Immortal - ultimate qi strike)
@@ -323,5 +323,5 @@ heavenly_tribulation_descent = {
     stack = 4
     ai_quality = { value = @qi_maa_ai_score_high }
 
-    icon = peak_realm_taoists
+    icon = war_elephants
 }
