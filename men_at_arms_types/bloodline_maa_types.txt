@@ -44,7 +44,7 @@ yin_cultivator_1 = {
     stack = 120
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = yin_cultivator_1
+    icon = skirmishers
 }
 
 yin_cultivator_2 = {
@@ -79,7 +79,7 @@ yin_cultivator_2 = {
     stack = 100
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = yin_cultivator_2
+    icon = skirmishers
 }
 
 yin_cultivator_3 = {
@@ -111,7 +111,7 @@ yin_cultivator_3 = {
     stack = 80
     ai_quality = { value = @cultural_maa_extra_ai_score_2 }
 
-    icon = yin_cultivator_3
+    icon = heavy_infantry
 }
 
 # =========================
@@ -151,7 +151,7 @@ yang_cultivator_1 = {
     stack = 120
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = yang_cultivator_1
+    icon = skirmishers
 }
 
 yang_cultivator_2 = {
@@ -186,7 +186,7 @@ yang_cultivator_2 = {
     stack = 100
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = yang_cultivator_2
+    icon = skirmishers
 }
 
 yang_cultivator_3 = {
@@ -218,7 +218,7 @@ yang_cultivator_3 = {
     stack = 80
     ai_quality = { value = @cultural_maa_extra_ai_score_2 }
 
-    icon = yang_cultivator_3
+    icon = heavy_infantry
 }
 
 # =========================
@@ -258,7 +258,7 @@ dragon_cultivator_1 = {
     stack = 120
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = dragon_cultivator_1
+    icon = skirmishers
 }
 
 dragon_cultivator_2 = {
@@ -293,7 +293,7 @@ dragon_cultivator_2 = {
     stack = 100
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = dragon_cultivator_2
+    icon = skirmishers
 }
 
 dragon_cultivator_3 = {
@@ -325,7 +325,7 @@ dragon_cultivator_3 = {
     stack = 80
     ai_quality = { value = @cultural_maa_extra_ai_score_2 }
 
-    icon = dragon_cultivator_3
+    icon = heavy_infantry
 }
 # =========================
 # PHOENIX (High pursuit / cleanup)
@@ -363,7 +363,7 @@ phoenix_cultivator_1 = {
     stack = 120
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = phoenix_cultivator_1
+    icon = skirmishers
 }
 
 phoenix_cultivator_2 = {
@@ -397,7 +397,7 @@ phoenix_cultivator_2 = {
     stack = 100
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = phoenix_cultivator_2
+    icon = skirmishers
 }
 
 phoenix_cultivator_3 = {
@@ -428,7 +428,7 @@ phoenix_cultivator_3 = {
     stack = 80
     ai_quality = { value = @cultural_maa_extra_ai_score_2 }
 
-    icon = phoenix_cultivator_3
+    icon = heavy_infantry
 }
 
 # =========================
@@ -467,7 +467,7 @@ demon_cultivator_1 = {
     stack = 120
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = demon_cultivator_1
+    icon = skirmishers
 }
 
 demon_cultivator_2 = {
@@ -501,7 +501,7 @@ demon_cultivator_2 = {
     stack = 100
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = demon_cultivator_2
+    icon = skirmishers
 }
 
 demon_cultivator_3 = {
@@ -532,7 +532,7 @@ demon_cultivator_3 = {
     stack = 80
     ai_quality = { value = @cultural_maa_extra_ai_score_2 }
 
-    icon = demon_cultivator_3
+    icon = heavy_infantry
 }
 
 # =========================
@@ -571,7 +571,7 @@ poison_cultivator_1 = {
     stack = 120
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = poison_cultivator_1
+    icon = skirmishers
 }
 
 poison_cultivator_2 = {
@@ -605,7 +605,7 @@ poison_cultivator_2 = {
     stack = 100
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = poison_cultivator_2
+    icon = skirmishers
 }
 
 poison_cultivator_3 = {
@@ -631,7 +631,7 @@ poison_cultivator_3 = {
     stack = 80
     ai_quality = { value = @cultural_maa_extra_ai_score_2 }
 
-    icon = poison_cultivator_3
+    icon = heavy_infantry
 }
 
 # =========================
@@ -666,7 +666,7 @@ spirit_cultivator_1 = {
     stack = 120
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = spirit_cultivator_1
+    icon = skirmishers
 }
 
 spirit_cultivator_2 = {
@@ -696,7 +696,7 @@ spirit_cultivator_2 = {
     stack = 100
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = spirit_cultivator_2
+    icon = skirmishers
 }
 
 spirit_cultivator_3 = {
@@ -718,5 +718,5 @@ spirit_cultivator_3 = {
     stack = 80
     ai_quality = { value = @cultural_maa_extra_ai_score_2 }
 
-    icon = spirit_cultivator_3
+    icon = heavy_infantry
 }

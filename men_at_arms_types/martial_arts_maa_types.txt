@@ -38,7 +38,7 @@ martial_artist_cultivator = {
     stack = 120
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = martial_artist_cultivator
+    icon = skirmishers
 }
 
 martial_artist_army_1 = {
@@ -76,7 +76,7 @@ martial_artist_army_1 = {
     stack = 100
     ai_quality = { value = @cultural_maa_extra_ai_score_1 }
 
-    icon = martial_artist_army_1
+    icon = skirmishers
 }
 
 martial_artist_army_2 = {
@@ -127,7 +127,7 @@ martial_artist_army_2 = {
     stack = 90
     ai_quality = { value = @cultural_maa_extra_ai_score_2 }
 
-    icon = martial_artist_army_2
+    icon = heavy_infantry
 }
 
 martial_artist_army_3 = {
@@ -177,7 +177,7 @@ martial_artist_army_3 = {
     stack = 70
     ai_quality = { value = @cultural_maa_extra_ai_score_3 }
 
-    icon = martial_artist_army_3
+    icon = heavy_infantry
 }
 
 # =========================
@@ -221,7 +221,7 @@ zombie_army_1 = {
     stack = 200
     ai_quality = { value = @cultural_maa_extra_ai_score_2 }
 
-    icon = zombie_army_1
+    icon = peasant_militia
 }
 
 zombie_army_2 = {
@@ -273,7 +273,7 @@ zombie_army_2 = {
     stack = 160
     ai_quality = { value = @cultural_maa_extra_ai_score_2 }
 
-    icon = zombie_army_2
+    icon = peasant_militia
 }
 zombie_army_3 = {
     type = skirmishers
@@ -323,7 +323,7 @@ zombie_army_3 = {
     stack = 120
     ai_quality = { value = @cultural_maa_extra_ai_score_3 }
 
-    icon = zombie_army_3
+    icon = skirmishers
 }
 
 zombie_army_4 = {
@@ -373,7 +373,7 @@ zombie_army_4 = {
     stack = 80
     ai_quality = { value = @cultural_maa_extra_ai_score_3 }
 
-    icon = zombie_army_4
+    icon = heavy_infantry
 }
 
 zombie_army_5 = {
@@ -421,7 +421,7 @@ zombie_army_5 = {
     stack = 50
     ai_quality = { value = @cultural_maa_extra_ai_score_4 }
 
-    icon = zombie_army_5
+    icon = heavy_infantry
 }
 
 # =========================
@@ -474,7 +474,7 @@ immortal_army_1 = {
     stack = 30
     ai_quality = { value = @cultural_maa_extra_ai_score_4 }
 
-    icon = immortal_army_1
+    icon = heavy_infantry
 }
 
 immortal_army_2 = {
@@ -523,5 +523,5 @@ immortal_army_2 = {
     stack = 20
     ai_quality = { value = @cultural_maa_extra_ai_score_4 }
 
-    icon = immortal_army_2
+    icon = heavy_infantry
 }
